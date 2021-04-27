@@ -1,0 +1,23 @@
+.form-card {
+  max-width: 500px;
+  display: flex;
+  flex-direction: column;
+  margin: 2rem auto;
+  padding: 10px;
+  box-shadow: 0 10px 20px rgb(0 0 0 / 19%), 0 6px 6px rgb(0 0 0 / 23%);
+  border-radius: 5px;
+}
+
+.form-card-input {
+  font-family: "Roboto", sans-serif;
+  border: none;
+  outline: none;
+  resize: none;
+}
+
+.form-card-title {
+  font-weight: bold;
+  line-height: 1.2;
+  margin-bottom: 1rem;
+  font-size: 1.2rem;
+}

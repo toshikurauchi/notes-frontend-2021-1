@@ -1,0 +1,13 @@
+.appbar {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin: 0 0 2rem;
+  padding: 10px 5px;
+  background-color: #f7d736;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+}
+
+.subtitle {
+  color: #2c2c2c;
+}
